@@ -1,0 +1,5 @@
+SUPABASE_SECRET_KEY=sb_secret_your_server_only_key
+SPORTS_API_KEY=your_sports_provider_key
+YOUTUBE_API_KEY=your_youtube_data_api_key
+PLAYBACK_AUTH_ENDPOINT=https://licensed-provider.example/authorize
+PLAYBACK_AUTH_TOKEN=your_provider_server_token
